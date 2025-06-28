@@ -1,0 +1,31 @@
+
+
+.container{
+    align-items: center;
+    text-align: center;
+    margin-top:230px ;
+}
+
+
+.button{
+    border: 1px solid black;
+    padding: 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#box1{
+    background-color: aqua;
+}
+
+#box2{
+    background-color: rgb(250, 10, 90);
+}
+
+#box3{
+    background-color: rgb(255, 153, 0);
+}
+
+.reset{
+    margin-top: 50px;
+}
