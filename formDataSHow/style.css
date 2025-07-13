@@ -1,0 +1,21 @@
+.formgroup {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.display-area {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.data-item {
+    margin: 5px 0;
+    padding: 8px;
+    border-bottom: 1px solid #eee;
+}
